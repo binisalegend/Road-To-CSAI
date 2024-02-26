@@ -1,0 +1,139 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ExplanatoryNote",
+            "request": "launch",
+            "mainClass": "ExplanatoryNote",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "ExplanatoryNoteCheck",
+            "request": "launch",
+            "mainClass": "ExplanatoryNoteCheck",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Resturant",
+            "request": "launch",
+            "mainClass": "Resturant",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Conn",
+            "request": "launch",
+            "mainClass": "Conn",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson7Question2",
+            "request": "launch",
+            "mainClass": "Lesson7Question2",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson7Question1",
+            "request": "launch",
+            "mainClass": "Lesson7Question1",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "bestLoading",
+            "request": "launch",
+            "mainClass": "bestLoading",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson6Question1",
+            "request": "launch",
+            "mainClass": "Lesson6Question1",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson5Question1",
+            "request": "launch",
+            "mainClass": "Lesson5Question1",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson4Question2",
+            "request": "launch",
+            "mainClass": "Lesson4Question2",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Lesson3Question5",
+            "request": "launch",
+            "mainClass": "Lesson3Question5",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Trie",
+            "request": "launch",
+            "mainClass": "Trie",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "PrefixExpressionEvaluator",
+            "request": "launch",
+            "mainClass": "PrefixExpressionEvaluator",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Road-To-CSAI_2724af9f"
+        },
+        {
+            "name": "g++.exe - 生成和调试活动文件",
+            "type": "cppdbg",
+            "request": "launch",
+            "program": "${fileDirname}\\bin\\test.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "externalConsole": true,
+            "MIMode": "gdb",
+            "miDebuggerPath": "C:\\Program Files\\mingw64\\bin\\gdb.exe",
+            "setupCommands": [
+                {
+                    "description": "为 gdb 启用整齐打印",
+                    "text": "-enable-pretty-printing",
+                    "ignoreFailures": true
+                },
+                {
+                    "description": "将反汇编风格设置为 Intel",
+                    "text": "-gdb-set disassembly-flavor intel",
+                    "ignoreFailures": true
+                }
+            ],
+            "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+        }
+    ]
+}

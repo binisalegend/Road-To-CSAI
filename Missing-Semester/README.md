@@ -1,0 +1,2 @@
+本部分将介绍一些CS专业的基本技能，例如shell，git，vim等等
+在本课程中的有些章节，我采用了先看课程中文文档[2020 Lectures · the missing semester of your cs education (missing-semester-cn.github.io)](https://missing-semester-cn.github.io/2020/)，再听课吸取教材中没有涉及的部分，所以我的一部分笔记可能是采用“课程内容小章节+视频内容补充”的结构形式

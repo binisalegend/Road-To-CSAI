@@ -1,0 +1,7 @@
+'composer-correct', (0, 66)
+'g-correct', (512, 66)
+'g_iter-correct', (1024, 66)
+'missing_digits-correct', (1536, 66)
+'count_change-correct', (2048, 66)
+'move_stack-correct', (2560, 66)
+'make_anonymous_factorial-correct', (3072, 66)

@@ -1,0 +1,8 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true,
+  "promptDelete": false
+}

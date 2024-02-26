@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="300.0" prefWidth="900.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proteindatabase.controllers.DataInsertController">
+      <Label layoutX="57.0" layoutY="55.0" prefHeight="15.0" prefWidth="66.0" text="Protein_ID" />
+      <Label layoutX="310.0" layoutY="54.0" prefHeight="15.0" prefWidth="83.0" text="Protein_Name" />
+      <Label layoutX="583.0" layoutY="54.0" prefHeight="15.0" prefWidth="114.0" text="Protein_EntryName" />
+      <Label layoutX="32.0" layoutY="142.0" prefHeight="15.0" prefWidth="90.0" text="Protein_Length" />
+      <Label layoutX="307.0" layoutY="141.0" prefHeight="15.0" prefWidth="81.0" text="Protein_Mass" />
+      <Label layoutX="561.0" layoutY="141.0" prefHeight="15.0" prefWidth="135.0" text="Gene Names (primary)" />
+      <TextField fx:id="Protein_ID" layoutX="126.0" layoutY="50.0" promptText="请输入蛋白质唯一ID：" />
+      <TextField fx:id="Protein_Length" layoutX="125.0" layoutY="137.0" promptText="请输入蛋白质长度：" />
+      <TextField fx:id="Protein_Name" layoutX="397.0" layoutY="51.0" promptText="请输入蛋白质名称描述：" />
+      <TextField fx:id="Protein_EntryName" layoutX="700.0" layoutY="51.0" promptText="请输入蛋白质模糊搜索名：" />
+      <TextField fx:id="Protein_Mass" layoutX="392.0" layoutY="138.0" promptText="请输入蛋白质质量：" />
+      <TextField fx:id="Gene_Names" layoutX="702.0" layoutY="136.0" promptText="请输入蛋白质基本基因名：" />
+      <Label fx:id="Notification" alignment="CENTER" contentDisplay="CENTER" layoutX="324.0" layoutY="179.0" prefHeight="23.0" prefWidth="261.0" text="Label" textFill="RED" visible="false">
+         <cursor>
+            <Cursor fx:constant="CROSSHAIR" />
+         </cursor>
+      </Label>
+      <Button fx:id="AddButton" layoutX="401.0" layoutY="225.0" mnemonicParsing="false" onAction="#onAddButtonClick" prefHeight="23.0" prefWidth="152.0" text="添加数据" />
+</AnchorPane>

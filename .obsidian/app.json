@@ -1,0 +1,17 @@
+{
+  "readableLineLength": false,
+  "showLineNumber": true,
+  "vimMode": true,
+  "autoPairMarkdown": true,
+  "strictLineBreaks": true,
+  "promptDelete": false,
+  "newFileLocation": "current",
+  "useMarkdownLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

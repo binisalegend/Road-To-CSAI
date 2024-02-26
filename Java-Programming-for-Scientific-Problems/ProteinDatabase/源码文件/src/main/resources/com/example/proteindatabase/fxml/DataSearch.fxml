@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ChoiceBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.Pagination?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.effect.Blend?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+
+<AnchorPane prefHeight="645.0" prefWidth="1038.0" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.proteindatabase.controllers.DataSearchController">
+    <ChoiceBox fx:id="ViewPages" layoutX="939.0" layoutY="2.0" prefHeight="23.0" prefWidth="51.0">
+        <opaqueInsets>
+            <Insets />
+        </opaqueInsets>
+        <effect>
+            <Blend />
+        </effect>
+        <cursor>
+            <Cursor fx:constant="DEFAULT" />
+        </cursor>
+    </ChoiceBox>
+    <TextField fx:id="SearchTextField" layoutX="43.0" layoutY="1.0" promptText="请输入要查询的内容" />
+    <Button fx:id="SearchButton" layoutX="594.0" layoutY="2.0" mnemonicParsing="false" onAction="#onSearchButtonClick" prefHeight="23.0" prefWidth="92.0" text="搜索" />
+    <Label fx:id="SearchResultNotification" alignment="CENTER" contentDisplay="CENTER" layoutX="281.0" layoutY="29.0" prefHeight="19.0" prefWidth="498.0" text="Label" textFill="RED" visible="false" />
+    <Pagination fx:id="SearchResult" layoutX="20.0" layoutY="59.0" pageCount="${controller.pageCount}" prefHeight="558.0" prefWidth="998.0" />
+    <ChoiceBox fx:id="SearchColumn" layoutX="229.0" layoutY="3.0" prefHeight="23.0" prefWidth="154.0">
+        <opaqueInsets>
+            <Insets />
+        </opaqueInsets>
+        <effect>
+            <Blend />
+        </effect>
+        <cursor>
+            <Cursor fx:constant="DEFAULT" />
+        </cursor>
+    </ChoiceBox>
+    <Label layoutX="990.0" layoutY="-1.0" prefHeight="29.0" prefWidth="33.0" text="行/页" />
+    <Button fx:id="ResultDownload" layoutX="705.0" layoutY="2.0" mnemonicParsing="false" onAction="#onDownloadButtonClick" prefHeight="23.0" prefWidth="71.0" text="结果下载" />
+    <TextField fx:id="PagesFromTextField" layoutX="798.0" layoutY="2.0" prefHeight="23.0" prefWidth="51.0" promptText="1" text="1" />
+    <TextField fx:id="PagesToTextField" layoutX="866.0" layoutY="2.0" prefHeight="23.0" prefWidth="40.0" />
+    <Label alignment="CENTER" layoutX="902.0" layoutY="-2.0" prefHeight="29.0" prefWidth="26.0" text="页" />
+    <Line endX="94.3333740234375" layoutX="771.0" layoutY="14.0" startX="78.3333740234375" />
+   <ChoiceBox fx:id="SelectDatabase" layoutX="427.0" layoutY="3.0" prefHeight="23.0" prefWidth="92.0" />
+   <Button fx:id="refreshButton" layoutX="530.0" layoutY="2.0" mnemonicParsing="false" text="刷新" />
+   <TextField fx:id="PageSelectTextField" layoutX="756.0" layoutY="579.0" prefHeight="23.0" prefWidth="136.0" promptText="请输入要跳转到的页码" />
+   <Button fx:id="PageJumpButton" layoutX="895.0" layoutY="579.0" mnemonicParsing="false" text="跳转" />
+   <Label fx:id="PageSelectNotification" alignment="CENTER" disable="true" layoutX="705.0" layoutY="610.0" prefHeight="15.0" prefWidth="177.0" textFill="RED" />
+</AnchorPane>

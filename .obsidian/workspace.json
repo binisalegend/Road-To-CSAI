@@ -1,0 +1,213 @@
+{
+  "main": {
+    "id": "666038e107298d2b",
+    "type": "split",
+    "children": [
+      {
+        "id": "710d5ae64b6518c1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "72ea6180ebffa270",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e3217a2fa4459176",
+    "type": "split",
+    "children": [
+      {
+        "id": "131ebbe41c8282ae",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1210164b040039aa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c344e586b4f12dbf",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5e4d8d49d2b1868c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 222.50100708007812,
+    "collapsed": true
+  },
+  "right": {
+    "id": "825ba1490c7987ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "e42b99ebc34acc41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "28bedf073d571d6e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "efb3a024cf52ccb9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dddb247ca10df133",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f8f1ddc4e515ffc6",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "6160b5d9a97308f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "1210164b040039aa",
+  "lastOpenFiles": [
+    "Machine-Learning/课程笔记/Pasted image 20240130154138.png",
+    "Machine-Learning/课程笔记/Pasted image 20240130152714.png",
+    "Classification-Algorithm/分类算法学习.md",
+    "Machine-Learning/课程笔记/机器学习笔记.md",
+    "Machine-Learning/课程笔记/Pasted image 20240129231402.png",
+    "Machine-Learning/课程笔记/Pasted image 20240129183501.png",
+    "Machine-Learning/课程笔记/Pasted image 20240129183025.png",
+    "Machine-Learning/markdown/week7.md",
+    "Machine-Learning/markdown/week6.md",
+    "Machine-Learning/markdown/week8.md",
+    "Machine-Learning/markdown/week9.md",
+    "Machine-Learning/markdown/week10.md",
+    "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
+    "Missing-Semester/学习笔记.rar",
+    "Machine-Learning/课程笔记/Pasted image 20240128192547.png",
+    "Machine-Learning/课程笔记/Pasted image 20240128184826.png",
+    "Machine-Learning/课程笔记/Pasted image 20240128151127.png",
+    "Machine-Learning/课程笔记/Pasted image 20240128150805.png",
+    "Machine-Learning/课程笔记/Pasted image 20240128150622.png",
+    "Machine-Learning/课程笔记/Pasted image 20240128144309.png",
+    "Machine-Learning/markdown/week5.md",
+    "Machine-Learning/markdown/week4.md",
+    "Neural-Network/DHGNN动态超图论文学习.md",
+    "Neural-Network/图神经网络学习.md",
+    "Machine-Learning/markdown/week3.md",
+    "Neural-Network/TGN动态时序图论文学习.md",
+    "Neural-Network.zip",
+    "Machine-Learning/markdown/week2.md",
+    "fcitx-remote.exe",
+    "im-select.exe",
+    "Machine-Learning/markdown/1.CS229-LinearAlgebra.md",
+    "Machine-Learning/markdown/week1.md",
+    "CS50-AI/课程笔记/Learning.md",
+    "CS50-AI/课程笔记/Learning_tran.md",
+    "CS50-AI/课程笔记/Language.md",
+    "Machine-Learning/code/ex1-linear regression/ML-Exercise1.ipynb.tmp",
+    "Machine-Learning/机器学习笔记.md",
+    "Machine-Learning/课程笔记",
+    "Machine-Learning/新建文件夹",
+    "Machine-Learning/markdown/SUMMARY.md",
+    "Machine-Learning/markdown/README.md",
+    "Machine-Learning/markdown/math.md",
+    "Machine-Learning/markdown/2.CS229-Prob.md",
+    "Machine-Learning/markdown",
+    "Machine-Learning/images/0c31b42f1ee2b0703decf4e6c55d61d1.wmf",
+    "Machine-Learning/images",
+    "未命名.canvas"
+  ]
+}

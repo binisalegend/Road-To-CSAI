@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.layout.VBox?>
+
+<AnchorPane prefHeight="629" prefWidth="1038" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1">
+    <!-- 导入数据部分 -->
+    <VBox layoutY="-30.0" prefHeight="629" prefWidth="1038">
+        <!-- 这里是 DataImport 界面的内容 -->
+        <fx:include source="DataImport.fxml" />
+        <VBox prefHeight="629" prefWidth="1038">
+            <!-- 这里是 DataSearch 界面的内容 -->
+            <fx:include source="DataSearch.fxml" />
+        </VBox>
+    </VBox>
+</AnchorPane>
+

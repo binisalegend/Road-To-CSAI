@@ -1,0 +1,5 @@
+{
+  "fcitxRemotePath_macOS": "/usr/local/bin/fcitx-remote",
+  "fcitxRemotePath_windows": "D:\\BIT-Resources\\Road-To-CSAI\\fcitx-remote.exe",
+  "fcitxRemotePath_linux": "/usr/bin/fcitx-remote"
+}
