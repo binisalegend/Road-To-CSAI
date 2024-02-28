@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812
+    "width": 222.50100708007812,
+    "collapsed": true
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/数据库原理学习.md"
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
               }
             }
           }
@@ -161,8 +162,9 @@
   },
   "active": "2ad794dda6253b05",
   "lastOpenFiles": [
-    "Database/Pasted image 20240228090112.png",
     "Database/数据库原理学习.md",
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Database/Pasted image 20240228090112.png",
     "Database/Pasted image 20240228104620.png",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Optimization-Algorithm/Pasted image 20240227221437.png",
