@@ -1,0 +1,6 @@
+Java-Programming-for-Scientific-Problems/ProteinDatabase/蛋白质数据管理系统功能演示.pptx filter=lfs diff=lfs merge=lfs -text
+Java-Programming-for-Scientific-Problems/ProteinDatabase/可编译文件（Jar包）/Bin_Project.jar filter=lfs diff=lfs merge=lfs -text
+Java-Programming-for-Scientific-Problems/ProteinDatabase/可编译文件（Jar包）/ProteinDatabase.sqlite filter=lfs diff=lfs merge=lfs -text
+NLP-and-DeepLearning/code/data/FashionMNIST/raw/train-images-idx3-ubyte filter=lfs diff=lfs merge=lfs -text
+NLP-and-DeepLearning/code/data/FashionMNIST/raw/train-images-idx3-ubyte.gz filter=lfs diff=lfs merge=lfs -text
+DeepLearning/深度学习的数学配套示例文件/5-6[[:space:]]CNN（误差反向传播法）.xlsx filter=lfs diff=lfs merge=lfs -text
