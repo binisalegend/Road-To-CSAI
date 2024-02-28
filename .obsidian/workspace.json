@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812,
-    "collapsed": true
+    "width": 222.50100708007812
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -160,8 +159,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1210164b040039aa",
+  "active": "2ad794dda6253b05",
   "lastOpenFiles": [
+    "Database/Pasted image 20240228104620.png",
     "Database/Pasted image 20240228090112.png",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Optimization-Algorithm/Pasted image 20240227221437.png",
@@ -176,7 +176,6 @@
     "Classification-Algorithm/分类算法学习.md",
     "Machine-Learning/课程笔记/Pasted image 20240129231402.png",
     "Machine-Learning/课程笔记/Pasted image 20240129183501.png",
-    "Machine-Learning/课程笔记/Pasted image 20240129183025.png",
     "Machine-Learning/markdown/week7.md",
     "Machine-Learning/markdown/week6.md",
     "Machine-Learning/markdown/week8.md",
