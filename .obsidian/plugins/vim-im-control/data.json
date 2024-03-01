@@ -1,0 +1,22 @@
+{
+  "macos": {
+    "pathToIMControl": "/opt/homebrew/bin",
+    "cmdOnInsertLeave": "im-select com.apple.keylayout.ABC",
+    "cmdOnInsertEnter": "im-select {{im}}",
+    "cmdGetCurrentIM": "im-select"
+  },
+  "windows": {
+    "pathToIMControl": "D:\\\\Keyboard_tools",
+    "cmdOnInsertLeave": "im-select.exe 1033",
+    "cmdOnInsertEnter": "im-select.exe {{im}}",
+    "cmdGetCurrentIM": "im-select.exe"
+  },
+  "linux": {
+    "pathToIMControl": "/usr/bin",
+    "cmdOnInsertLeave": "fcitx5-remote -c",
+    "cmdOnInsertEnter": "fcitx5-remote -o",
+    "cmdGetCurrentIM": "fcitx5-remote"
+  },
+  "isAsync": true,
+  "isStatusBarEnabled": false
+}

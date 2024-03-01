@@ -2,7 +2,7 @@
   "obsidian-latex-environments",
   "cm-chs-patch",
   "quick-latex",
-  "obsidian-vimrc-support",
   "obsidian-git",
-  "obsidian-dynamic-background"
+  "obsidian-dynamic-background",
+  "vim-im-control"
 ]
