@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "710d5ae64b6518c1",
+        "id": "3821c265611bc170",
         "type": "tabs",
         "children": [
           {
-            "id": "2ad794dda6253b05",
+            "id": "147b98cea4f028a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812,
-    "collapsed": true
+    "width": 222.50100708007812
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md"
               }
             }
           }
@@ -160,8 +159,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "2ad794dda6253b05",
+  "active": "147b98cea4f028a7",
   "lastOpenFiles": [
+    "Database/数据库原理学习.md",
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Database/Pasted image 20240302223122.png",
     "Matrix-Analysis/Pasted image 20240302194438.png",
     "Digital-Logic/数字逻辑基础课程笔记.md",
     "Digital-Logic/Lesson2.md",
@@ -173,12 +175,8 @@
     "Digital-Logic/source/Pasted image 20240229210438.png",
     "Digital-Logic/source/Pasted image 20240229210207.png",
     "Digital-Logic/source/Pasted image 20240229210200.png",
-    "Digital-Logic/source/Pasted image 20240229210114.png",
-    "Digital-Logic/source/Pasted image 20240229204935.png",
     "Digital-Logic/source",
-    "Matrix-Analysis/矩阵分析课程笔记.md",
     "Digital-Logic",
-    "Database/数据库原理学习.md",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Machine-Learning/课程笔记/机器学习笔记.md",
     "Optimization-Algorithm",
