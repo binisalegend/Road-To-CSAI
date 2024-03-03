@@ -3,8 +3,10 @@
   "baseFontSize": 22,
   "cssTheme": "Royal Velvet",
   "translucency": true,
-  "interfaceFontFamily": "Cascadia Code PL",
-  "monospaceFontFamily": "Cascadia Code PL",
-  "textFontFamily": "Lucida Calligraphy",
-  "theme": "obsidian"
+  "interfaceFontFamily": "Cascadia Mono",
+  "monospaceFontFamily": "Cascadia Mono",
+  "textFontFamily": "Cascadia Mono",
+  "theme": "obsidian",
+  "baseFontSizeAction": true,
+  "nativeMenus": false
 }
