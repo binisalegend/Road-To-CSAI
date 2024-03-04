@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md"
+                "file": "Optimization-Algorithm/最优化方法课程笔记.md"
               }
             }
           }
@@ -160,11 +160,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1210164b040039aa",
+  "active": "63273459615a8c0e",
   "lastOpenFiles": [
+    "Optimization-Algorithm/Pasted image 20240304215247.png",
+    "Optimization-Algorithm/Pasted image 20240304211916.png",
+    "Digital-Logic/数字逻辑基础课程笔记.md",
     "Digital-Logic/Pasted image 20240303232144.png",
     "Digital-Logic/Pasted image 20240303234512.png",
-    "Digital-Logic/数字逻辑基础课程笔记.md",
     "Neural-Network/Pasted image 20240123215326.png",
     "未命名.canvas",
     "2024-03-03.md",
@@ -178,7 +180,6 @@
     "Matrix-Analysis/Pasted image 20240302194438.png",
     "Digital-Logic/Lesson2.md",
     "Digital-Logic/source/Pasted image 20240229213144.png",
-    "Digital-Logic/source/Pasted image 20240229212346.png",
     "Digital-Logic/source",
     "Digital-Logic",
     "Optimization-Algorithm/最优化方法课程笔记.md",
