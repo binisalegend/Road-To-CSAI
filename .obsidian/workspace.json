@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md"
               }
             }
           }
@@ -163,6 +163,7 @@
   "active": "63273459615a8c0e",
   "lastOpenFiles": [
     "Optimization-Algorithm/最优化方法课程笔记.md",
+    "Matrix-Analysis/矩阵分析课程笔记.md",
     "Optimization-Algorithm/Pasted image 20240304215247.png",
     "Optimization-Algorithm/Pasted image 20240304211916.png",
     "Digital-Logic/数字逻辑基础课程笔记.md",
@@ -175,7 +176,6 @@
     "Database/Pasted image 20240303195819.png",
     "Database/Pasted image 20240303185815.png",
     "Database/Pasted image 20240303182832.png",
-    "Matrix-Analysis/矩阵分析课程笔记.md",
     "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
     "Database/Pasted image 20240302223122.png",
     "Matrix-Analysis/Pasted image 20240302194438.png",
