@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812,
-    "collapsed": true
+    "width": 222.50100708007812
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/数据库原理学习.md"
+                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md"
               }
             }
           }
@@ -162,9 +161,9 @@
   },
   "active": "63273459615a8c0e",
   "lastOpenFiles": [
+    "Database/数据库原理学习.md",
     "Database/Pasted image 20240318110926.png",
     "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
-    "Database/数据库原理学习.md",
     "Database/Pasted image 20240317190435.png",
     "Database/Pasted image 20240317190007.png",
     "Matrix-Analysis/矩阵分析课程笔记.md",
@@ -177,7 +176,6 @@
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Optimization-Algorithm/Pasted image 20240304215247.png",
     "Optimization-Algorithm/Pasted image 20240304211916.png",
-    "Digital-Logic/Pasted image 20240303232144.png",
     "未命名.canvas",
     "2024-03-03.md",
     "Digital-Logic/Lesson2.md",
