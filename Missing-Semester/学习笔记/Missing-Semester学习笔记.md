@@ -469,4 +469,4 @@ Host <自定义主机名>
    1. `git branch`：查看库中的分支(前面带`*`的表示现在正处于的branch)
    2. `git check <分支名>`：切换到其他的分支
    3. 可以通过配置 `.git/config` 文件，通过添加URl来配置远程仓库
-6. 忽略大文件拉取命令：`git config --global filter.lfs.smudge "git-lfs smudge --skip -- %f"`和`git config --global filter.lfs.smudge "git-lfs smudge --skip -- %f"`
+6. 忽略大文件拉取命令：`git config --global filter.lfs.smudge "git-lfs smudge --skip -- %f"`和`git config --global filter.lfs.process "git-lfs filter-process --skip"`
