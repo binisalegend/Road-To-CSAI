@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
+                "file": "Database/数据库原理学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812
+    "width": 222.50100708007812,
+    "collapsed": true
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
+                "file": "Database/数据库原理学习.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
+                "file": "Database/数据库原理学习.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Missing-Semester/学习笔记/Missing-Semester学习笔记.md"
+                "file": "Database/数据库原理学习.md"
               }
             }
           }
@@ -159,11 +160,11 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63273459615a8c0e",
+  "active": "6160b5d9a97308f8",
   "lastOpenFiles": [
+    "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
     "Database/数据库原理学习.md",
     "Database/Pasted image 20240318110926.png",
-    "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
     "Database/Pasted image 20240317190435.png",
     "Database/Pasted image 20240317190007.png",
     "Matrix-Analysis/矩阵分析课程笔记.md",
