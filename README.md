@@ -36,3 +36,4 @@
 |     |              [分类算法](https://github.com/binisalegend/Road-To-CSAI/tree/master/Classification-Algorithm)              |     个人笔记      |     目前只有*KNN*和*K-means*     |
 |     |               [CS224n](https://github.com/binisalegend/Road-To-CSAI/tree/master/NLP-and-DeepLearning)               |     个人笔记      |          只听了一点...           |
 |     |               [强化学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/ReinforcementLearning)                |     个人笔记      |         目前只有机器狗学习示例         |
+|     |                [吴恩达机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning)                 |     个人笔记      |         完结(除强化学习章节)         |
