@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md"
               }
             }
           }
@@ -173,6 +173,7 @@
   },
   "active": "63273459615a8c0e",
   "lastOpenFiles": [
+    "README.md",
     "College-Physics/振动与光学.md",
     "College-Physics/力学与热力学.md",
     "College-Physics/近代物理.md",
@@ -197,7 +198,6 @@
     "Marxist-Principles",
     "ReinforcementLearning/学习笔记/强化学习笔记.md",
     "CS61B/学习笔记/CS61B学习笔记.md",
-    "README.md",
     "CS61B/README.md",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Database/数据库原理学习.md",
