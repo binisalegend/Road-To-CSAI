@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "19db22119c004cb7",
+        "id": "2fd1b821f52f955b",
         "type": "tabs",
         "children": [
           {
-            "id": "63273459615a8c0e",
+            "id": "4714a14ade84e8a0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a25e6ae32452880f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ReinforcementLearning/学习笔记/强化学习笔记.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "file": "README.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "file": "README.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -149,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Machine-Learning/课程笔记/机器学习笔记.md"
+                "file": "README.md"
               }
             }
           }
@@ -171,8 +159,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "63273459615a8c0e",
+  "active": "4714a14ade84e8a0",
   "lastOpenFiles": [
+    "Digital-Logic/数字逻辑基础.np",
+    "College-Physics/大学物理整理.np",
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Machine-Learning/课程笔记/机器学习笔记.md",
     "README.md",
     "College-Physics/振动与光学.md",
     "College-Physics/力学与热力学.md",
@@ -202,7 +194,6 @@
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Database/数据库原理学习.md",
     "Digital-Logic/数字逻辑基础课程笔记.md",
-    "Matrix-Analysis/矩阵分析课程笔记.md",
     "[.md",
     "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
     "Data-Structure-and-Algorithm-Design/学习笔记/数据结构与算法.md",
@@ -213,12 +204,9 @@
     "2024-03-03.md",
     "Digital-Logic/Lesson2.md",
     "Digital-Logic/source",
-    "Digital-Logic",
-    "Machine-Learning/课程笔记/机器学习笔记.md",
     "Classification-Algorithm/分类算法学习.md",
     "Machine-Learning/markdown/week7.md",
     "Machine-Learning/markdown/week6.md",
-    "Machine-Learning/markdown/week8.md",
-    "Machine-Learning/markdown/week9.md"
+    "Machine-Learning/markdown/week8.md"
   ]
 }
