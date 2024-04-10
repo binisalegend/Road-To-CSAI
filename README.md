@@ -30,7 +30,7 @@
 | 大二下 |                  [数字逻辑基础](https://github.com/binisalegend/Road-To-CSAI/tree/master/Digital-Logic)                   |   个人笔记+🍊的享做笔记   |    *逻辑变量与逻辑函数*章节(🍊版已完结)    |                  [🍊]()                   |
 |     |                     [数据库原理](https://github.com/binisalegend/Road-To-CSAI/tree/master/Database)                      |       个人笔记       |          *代数优化*章节           |                                           |
 |     |              [最优化方法](https://github.com/binisalegend/Road-To-CSAI/tree/master/Optimization-Algorithm)               |       个人笔记       |          *单纯形*法章节           |                                           |
-|     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |          *奇异值分解*章节          |                                           |
+|     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |       *Cholesky分解*章节        |                                           |
 | 课外  |            [Missing-Semester](https://github.com/binisalegend/Road-To-CSAI/tree/master/Missing-Semester)            |   课程进阶教材+个人笔记    |       *Git*章节(暂无完善计划)       |                                           |
 |     |                       [CS61A](https://github.com/binisalegend/Road-To-CSAI/tree/master/CS61A)                       |  课程lab&hw+个人笔记   | *Tree Processing*章节(暂无完善计划) |                                           |
 |     |                       [CS61B](https://github.com/binisalegend/Road-To-CSAI/tree/master/CS61B)                       |  课程lab&hw+个人笔记   |     *DLList*章节(暂无完善计划)      |                                           |
@@ -39,3 +39,5 @@
 |     |               [CS224n](https://github.com/binisalegend/Road-To-CSAI/tree/master/NLP-and-DeepLearning)               |       个人笔记       |          只听了一点...           |                                           |
 |     |               [强化学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/ReinforcementLearning)                |       个人笔记       |         目前只有机器狗学习示例         |                                           |
 |     |                [吴恩达机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning)                 |       个人笔记       |         完结(除强化学习章节)         |                                           |
+
+数据库，数字逻辑和矩阵分析打比赛没时间记`/(ㄒoㄒ)/~~` 正在恶补
