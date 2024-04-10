@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 222.50100708007812
+    "width": 222.50100708007812,
+    "collapsed": true
   },
   "right": {
     "id": "825ba1490c7987ab",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
               }
             }
           }
@@ -161,11 +162,11 @@
   },
   "active": "4714a14ade84e8a0",
   "lastOpenFiles": [
+    "README.md",
     "Digital-Logic/数字逻辑基础.np",
     "College-Physics/大学物理整理.np",
     "Matrix-Analysis/矩阵分析课程笔记.md",
     "Machine-Learning/课程笔记/机器学习笔记.md",
-    "README.md",
     "College-Physics/振动与光学.md",
     "College-Physics/力学与热力学.md",
     "College-Physics/近代物理.md",
@@ -203,7 +204,6 @@
     "未命名.canvas",
     "2024-03-03.md",
     "Digital-Logic/Lesson2.md",
-    "Digital-Logic/source",
     "Classification-Algorithm/分类算法学习.md",
     "Machine-Learning/markdown/week7.md",
     "Machine-Learning/markdown/week6.md",
