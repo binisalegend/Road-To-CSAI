@@ -4,11 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "2fd1b821f52f955b",
+        "id": "787cddefd9b6f290",
         "type": "tabs",
         "children": [
           {
             "id": "4714a14ade84e8a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine-Learning/课程笔记/机器学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebaec412d29bf395",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,7 +31,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,18 +172,21 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "4714a14ade84e8a0",
+  "active": "ebaec412d29bf395",
   "lastOpenFiles": [
+    "Machine-Learning/课程笔记/神经网络总结.md",
+    "Machine-Learning/课程笔记/机器学习笔记.md",
+    "Matrix-Analysis/程序文档.md",
+    "Matrix-Analysis/未命名.md",
     "Matrix-Analysis/矩阵分析课程笔记.md",
+    "README.md",
     "Matrix-Analysis/Pasted image 20240411011026.png",
     "Matrix-Analysis/Pasted image 20240411011016.png",
     "Matrix-Analysis/Pasted image 20240411005214.png",
     "Matrix-Analysis/Pasted image 20240411001615.png",
     "Matrix-Analysis/Pasted image 20240410232341.png",
-    "README.md",
     "Digital-Logic/数字逻辑基础.np",
     "College-Physics/大学物理整理.np",
-    "Machine-Learning/课程笔记/机器学习笔记.md",
     "College-Physics/振动与光学.md",
     "College-Physics/力学与热力学.md",
     "College-Physics/近代物理.md",
@@ -204,8 +220,6 @@
     "2024-03-03.md",
     "Digital-Logic/Lesson2.md",
     "Classification-Algorithm/分类算法学习.md",
-    "Machine-Learning/markdown/week7.md",
-    "Machine-Learning/markdown/week6.md",
-    "Machine-Learning/markdown/week8.md"
+    "Machine-Learning/markdown/week7.md"
   ]
 }
