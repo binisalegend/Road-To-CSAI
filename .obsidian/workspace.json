@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 281.5
   },
   "right": {
     "id": "1f6cf3cedbab54e3",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
+                "file": "README.md"
               }
             }
           }
@@ -159,5 +159,8 @@
     }
   },
   "active": "68f67857adff8e26",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Matrix-Analysis/机器学习.md"
+  ]
 }
