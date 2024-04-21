@@ -8,7 +8,7 @@
 
 整个文件夹中大部分是笔记，也有一些是我的代码
 
-我是用Obsidian来记笔记的，使用Typora打开大部分也是可以使用的，但是一些Callout可能会无法渲染
+我是用[Obsidian]((https://obsidian.md/)来记笔记的，使用Typora打开大部分也是可以使用的，但是一些Callout可能会无法渲染
 
 也可以来逛逛我的[个人博客](https://binisalegend.gitee.io/)~东西差不多，但是博客可能更新不是特别及时
 
@@ -30,7 +30,7 @@
 | 大二下 |                  [数字逻辑基础](https://github.com/binisalegend/Road-To-CSAI/tree/master/Digital-Logic)                   |   个人笔记+🍊的享做笔记   |    *逻辑变量与逻辑函数*章节(🍊版已完结)    |                  [🍊]()                   |
 |     |                     [数据库原理](https://github.com/binisalegend/Road-To-CSAI/tree/master/Database)                      |       个人笔记       |          *代数优化*章节           |                                           |
 |     |              [最优化方法](https://github.com/binisalegend/Road-To-CSAI/tree/master/Optimization-Algorithm)               |       个人笔记       |          *单纯形*法章节           |                                           |
-|     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |         *一般矩阵范数*章节          |                                           |
+|     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |         *条件数的用途*章节          |                                           |
 | 课外  |            [Missing-Semester](https://github.com/binisalegend/Road-To-CSAI/tree/master/Missing-Semester)            |   课程进阶教材+个人笔记    |       *Git*章节(暂无完善计划)       |                                           |
 |     |                       [CS61A](https://github.com/binisalegend/Road-To-CSAI/tree/master/CS61A)                       |  课程lab&hw+个人笔记   | *Tree Processing*章节(暂无完善计划) |                                           |
 |     |                       [CS61B](https://github.com/binisalegend/Road-To-CSAI/tree/master/CS61B)                       |  课程lab&hw+个人笔记   |     *DLList*章节(暂无完善计划)      |                                           |
