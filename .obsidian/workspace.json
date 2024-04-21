@@ -1,19 +1,19 @@
 {
   "main": {
-    "id": "666038e107298d2b",
+    "id": "5863b119b37c02c7",
     "type": "split",
     "children": [
       {
-        "id": "787cddefd9b6f290",
+        "id": "8345370e9265aac5",
         "type": "tabs",
         "children": [
           {
-            "id": "ebaec412d29bf395",
+            "id": "7d87af4e7389a727",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,15 +25,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "e3217a2fa4459176",
+    "id": "a005043c239071c3",
     "type": "split",
     "children": [
       {
-        "id": "131ebbe41c8282ae",
+        "id": "642ea087c9fcc0af",
         "type": "tabs",
         "children": [
           {
-            "id": "1210164b040039aa",
+            "id": "5cbfc57ec47d50f9",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,13 +43,13 @@
             }
           },
           {
-            "id": "c344e586b4f12dbf",
+            "id": "a887e04d27947522",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -58,7 +58,7 @@
             }
           },
           {
-            "id": "5e4d8d49d2b1868c",
+            "id": "0529e6309e4ac761",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,32 +69,25 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 281.5
-=======
-    "width": 222.50100708007812
->>>>>>> 4e6df18a4ae5ed899b02f4adc1cf528e39e03f14
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
-    "id": "825ba1490c7987ab",
+    "id": "128b4a09f9987302",
     "type": "split",
     "children": [
       {
-        "id": "e42b99ebc34acc41",
+        "id": "961ef881d26db931",
         "type": "tabs",
         "children": [
           {
-            "id": "28bedf073d571d6e",
+            "id": "39001bd7d3156c12",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
-<<<<<<< HEAD
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "collapseAll": false,
-=======
-                "collapseAll": true,
->>>>>>> 4e6df18a4ae5ed899b02f4adc1cf528e39e03f14
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -105,23 +98,19 @@
             }
           },
           {
-            "id": "efb3a024cf52ccb9",
+            "id": "d7633f0ef4a808df",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
-<<<<<<< HEAD
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md",
                 "linksCollapsed": false,
-=======
-                "linksCollapsed": true,
->>>>>>> 4e6df18a4ae5ed899b02f4adc1cf528e39e03f14
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "dddb247ca10df133",
+            "id": "28ed3885c4187c71",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -132,99 +121,44 @@
             }
           },
           {
-            "id": "f8f1ddc4e515ffc6",
+            "id": "200c089dc64f223f",
             "type": "leaf",
             "state": {
               "type": "all-properties",
               "state": {
                 "sortOrder": "frequency",
-                "showSearch": true,
+                "showSearch": false,
                 "searchQuery": ""
               }
             }
           },
           {
-            "id": "6160b5d9a97308f8",
+            "id": "2bc28b8ed56037ce",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Matrix-Analysis/矩阵分析课程笔记.md"
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 300,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:打开快速切换": true,
-      "graph:查看关系图谱": true,
-      "canvas:新建白板": true,
-      "daily-notes:打开/创建今天的日记": true,
-      "templates:插入模板": true,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
       "command-palette:打开命令面板": false
     }
   },
-<<<<<<< HEAD
-  "active": "68f67857adff8e26",
-  "lastOpenFiles": [
-    "Matrix-Analysis/矩阵分析课程笔记.md",
-    "Matrix-Analysis/机器学习.md"
-=======
-  "active": "ebaec412d29bf395",
-  "lastOpenFiles": [
-    "Matrix-Analysis/矩阵分析课程笔记.md",
-    "Matrix-Analysis/Pasted image 20240420234559.png",
-    "Matrix-Analysis/程序文档.md",
-    "README.md",
-    "Machine-Learning/课程笔记/神经网络总结.md",
-    "Machine-Learning/课程笔记/机器学习笔记.md",
-    "Matrix-Analysis/未命名.md",
-    "Matrix-Analysis/Pasted image 20240411011026.png",
-    "Matrix-Analysis/Pasted image 20240411011016.png",
-    "Matrix-Analysis/Pasted image 20240411005214.png",
-    "Matrix-Analysis/Pasted image 20240411001615.png",
-    "Matrix-Analysis/Pasted image 20240410232341.png",
-    "Digital-Logic/数字逻辑基础.np",
-    "College-Physics/大学物理整理.np",
-    "College-Physics/振动与光学.md",
-    "College-Physics/力学与热力学.md",
-    "College-Physics/近代物理.md",
-    "College-Physics/电磁学.md",
-    "College-Physics/大学物理_近代物理.pdf",
-    "College-Physics/大学物理_电磁学.pdf",
-    "College-Physics/振动与光学.assets/扫描全能王 2023-06-13 19.32_9.jpg",
-    "College-Physics/振动与光学.assets/扫描全能王 2023-06-13 19.32_8.jpg",
-    "College-Physics/振动与光学.assets/扫描全能王 2023-06-13 19.32_7.jpg",
-    "College-Physics/振动与光学.assets/扫描全能王 2023-06-13 19.32_5.jpg",
-    "College-Physics/振动与光学.assets",
-    "College-Physics/电磁学.assets",
-    "College-Physics",
-    "新建文件夹",
-    "Marxist-Principles/马原知识点总结（速成版）.md",
-    "Marxist-Principles",
-    "ReinforcementLearning/学习笔记/强化学习笔记.md",
-    "CS61B/学习笔记/CS61B学习笔记.md",
-    "CS61B/README.md",
-    "Optimization-Algorithm/最优化方法课程笔记.md",
-    "Database/数据库原理学习.md",
-    "Digital-Logic/数字逻辑基础课程笔记.md",
-    "[.md",
-    "Missing-Semester/学习笔记/Missing-Semester学习笔记.md",
-    "Data-Structure-and-Algorithm-Design/学习笔记/数据结构与算法.md",
-    "Python-Programming/学习笔记/Python学习笔记.md",
-    "CS61A/学习笔记/CS61A学习笔记.md",
-    "LICENSE",
-    "未命名.canvas",
-    "2024-03-03.md",
-    "Digital-Logic/Lesson2.md",
-    "Classification-Algorithm/分类算法学习.md"
->>>>>>> 4e6df18a4ae5ed899b02f4adc1cf528e39e03f14
-  ]
+  "active": "7d87af4e7389a727",
+  "lastOpenFiles": []
 }
