@@ -8,7 +8,7 @@
 
 整个文件夹中大部分是笔记，也有一些是我的代码
 
-我是用[Obsidian](https://obsidian.md/)来记笔记的，使用Typora打开大部分也是可以使用的，但是一些Callout可能会无法渲染
+我是用[Obsidian](https://obsidian.md/)来记笔记的，使用[Typora](https://typoraio.cn/)打开大部分也是可以使用的，但是一些[Callout](https://help.obsidian.md/Editing+and+formatting/Callouts)可能会无法渲染
 
 也可以来逛逛我的[个人博客](https://binisalegend.gitee.io/)~东西差不多，但是博客可能更新不是特别及时
 
