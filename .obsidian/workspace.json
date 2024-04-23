@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "cd2f1908c9937a57",
+            "id": "2b6fa4b3418605df",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -141,12 +141,12 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,10 +158,17 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "cd2f1908c9937a57",
+  "active": "2b6fa4b3418605df",
   "lastOpenFiles": [
-    "Database/数据库原理学习.md",
+    "Machine-Learning/机器学习课程笔记.md",
     "README.md",
-    "Matrix-Analysis/矩阵分析课程笔记.md"
+    "Machine-Learning",
+    "Machine-Learning/课程笔记/神经网络总结.md",
+    "Artificial-Intelligence/人工智能课程笔记.md",
+    "Artificial-Intelligence",
+    "Stochastic-process/随机过程课程笔记.md",
+    "Stochastic-process",
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Database/数据库原理学习.md"
   ]
 }
