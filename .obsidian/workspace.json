@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Database/数据库原理学习.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -160,8 +161,8 @@
   },
   "active": "2b6fa4b3418605df",
   "lastOpenFiles": [
-    "Machine-Learning/机器学习课程笔记.md",
     "README.md",
+    "Machine-Learning/机器学习课程笔记.md",
     "Machine-Learning",
     "Machine-Learning/课程笔记/神经网络总结.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
