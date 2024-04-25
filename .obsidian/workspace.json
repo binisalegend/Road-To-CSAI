@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/数据库原理学习.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,6 +161,8 @@
   },
   "active": "2b6fa4b3418605df",
   "lastOpenFiles": [
+    "Matrix-Analysis/矩阵分析课程笔记.md",
+    "Database/数据库原理学习.md",
     "README.md",
     "Machine-Learning/机器学习课程笔记.md",
     "Machine-Learning",
@@ -168,8 +170,6 @@
     "Artificial-Intelligence/人工智能课程笔记.md",
     "Artificial-Intelligence",
     "Stochastic-process/随机过程课程笔记.md",
-    "Stochastic-process",
-    "Matrix-Analysis/矩阵分析课程笔记.md",
-    "Database/数据库原理学习.md"
+    "Stochastic-process"
   ]
 }
