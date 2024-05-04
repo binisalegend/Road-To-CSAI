@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Database/数据库原理学习.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Database/数据库原理学习.md"
               }
             }
           }
@@ -160,10 +161,10 @@
   },
   "active": "2b6fa4b3418605df",
   "lastOpenFiles": [
+    "README.md",
     "Database/数据库原理学习.md",
     "Database/Pasted image 20240504144431.png",
     "Database/Pasted image 20240504133136.png",
-    "README.md",
     "Database/Pasted image 20240504114415.png",
     "Database/Pasted image 20240504112723.png",
     "Database/Pasted image 20240504095810.png",
