@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/数据库原理学习.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,8 +160,11 @@
   },
   "active": "2b6fa4b3418605df",
   "lastOpenFiles": [
-    "README.md",
     "Database/数据库原理学习.md",
+    "Database/Pasted image 20240504114415.png",
+    "Database/Pasted image 20240504112723.png",
+    "Database/Pasted image 20240504095810.png",
+    "README.md",
     "Database/Pasted image 20240504031431.png",
     "Database/Pasted image 20240504013007.png",
     "Database/Pasted image 20240504003805.png",
@@ -170,7 +172,6 @@
     "Database/Pasted image 20240503210600.png",
     "Database/Pasted image 20240503210118.png",
     "Database/Pasted image 20240503164142.png",
-    "Database/Pasted image 20240503161919.png",
     "Matrix-Analysis/矩阵分析课程笔记.md",
     "Matrix-Analysis.zip",
     "Machine-Learning/机器学习课程笔记.md",
