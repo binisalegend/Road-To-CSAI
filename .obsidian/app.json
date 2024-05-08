@@ -14,7 +14,7 @@
     "margin": "2",
     "downscalePercent": 74
   },
-  "alwaysUpdateLinks": false,
-  "attachmentFolderPath": "./",
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "Digital-Logic/数字逻辑基础课程笔记.assets",
   "newLinkFormat": "absolute"
 }
