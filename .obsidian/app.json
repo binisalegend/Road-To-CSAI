@@ -15,5 +15,6 @@
     "downscalePercent": 74
   },
   "alwaysUpdateLinks": false,
-  "attachmentFolderPath": "./"
+  "attachmentFolderPath": "./",
+  "newLinkFormat": "absolute"
 }
