@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Digital-Logic/数字逻辑基础课程笔记.md"
               }
             }
           }
@@ -160,18 +161,19 @@
   },
   "active": "bb7867307153fe34",
   "lastOpenFiles": [
+    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509114538.png",
+    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509112631.png",
+    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509112005.png",
+    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509111901.png",
+    "README.md",
     "Digital-Logic/数字逻辑基础课程笔记.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509020610.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509014358.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240509012538.png",
-    "README.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508221330.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508205059.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508204054.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508202429.png",
-    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508163929.png",
-    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508161233.png",
-    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240508155933.png",
     "Database/数据库原理学习.assets",
     "Database/未命名.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets",
