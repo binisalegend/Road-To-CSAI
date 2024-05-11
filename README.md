@@ -43,4 +43,4 @@
 |     |               [强化学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/ReinforcementLearning)                |       个人笔记       |          目前只有机器狗学习示例          |                                           |
 |     |            [吴恩达机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning-AndrewNg)            |       个人笔记       |          完结(除强化学习章节)          |                                           |
 
-最优化、数字逻辑打比赛没时间记`/(ㄒoㄒ)/~~` 正在恶补
+最优化打比赛没时间记`/(ㄒoㄒ)/~~` 正在恶补
