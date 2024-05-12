@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Digital-Logic/数字逻辑基础课程笔记.md"
+                "file": "README.md"
               }
             }
           }
@@ -146,7 +146,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,8 +159,18 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cbfc57ec47d50f9",
+  "active": "bb7867307153fe34",
   "lastOpenFiles": [
+    "Stochastic-process/作业/第一章作业.md",
+    "Stochastic-process/作业/Pasted image 20240513011111.png",
+    "Stochastic-process/作业/Pasted image 20240513011145.png",
+    "Stochastic-process/学长留下的作业/第一章作业.md",
+    "Stochastic-process/学长留下的作业/第四章作业.md",
+    "Stochastic-process/学长留下的作业/第三章作业.md",
+    "Stochastic-process/学长留下的作业/第二章作业.md",
+    "Stochastic-process/学长留下的作业",
+    "Stochastic-process/随机过程课程笔记.md",
+    "Stochastic-process/作业",
     "README.md",
     "Digital-Logic/数字逻辑基础课程笔记.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511215516.png",
@@ -170,8 +181,6 @@
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511144856.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511144844.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511144535.png",
-    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511143211.png",
-    "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511134543.png",
     "Database/数据库原理学习.assets",
     "Database/未命名.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets",
@@ -184,7 +193,6 @@
     "Machine-Learning/课程笔记/神经网络总结.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
     "Artificial-Intelligence",
-    "Stochastic-process/随机过程课程笔记.md",
     "Stochastic-process"
   ]
 }
