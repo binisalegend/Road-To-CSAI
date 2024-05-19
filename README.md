@@ -31,7 +31,7 @@
 |     |                     [数据库原理](https://github.com/binisalegend/Road-To-CSAI/tree/master/Database)                      |       个人笔记       |              完结               |                                           |
 |     |              [最优化方法](https://github.com/binisalegend/Road-To-CSAI/tree/master/Optimization-Algorithm)               |       个人笔记       |      **任意线性规划的单纯形法求解**章节      |                                           |
 |     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |              完结               |                                           |
-|     |                 [随机过程](https://github.com/binisalegend/Road-To-CSAI/tree/master/Stochastic-process)                 |       个人笔记       |            第一章作业完成            |                                           |
+|     |                 [随机过程](https://github.com/binisalegend/Road-To-CSAI/tree/master/Stochastic-process)                 |       个人笔记       |            第二章作业完成            |                                           |
 |     |              [人工智能](https://github.com/binisalegend/Road-To-CSAI/tree/master/Artificial-Intelligence)               |       个人笔记       |             刚刚起步              |                                           |
 |     |                  [机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning)                  |       个人笔记       |             刚刚起步              |                                           |
 | 课外  |            [Missing-Semester](https://github.com/binisalegend/Road-To-CSAI/tree/master/Missing-Semester)            |   课程进阶教材+个人笔记    |       **Git**章节(暂无完善计划)       |                                           |

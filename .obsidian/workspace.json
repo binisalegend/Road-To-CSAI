@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Optimization-Algorithm/最优化方法课程笔记.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Optimization-Algorithm/最优化方法课程笔记.md"
+                "file": "README.md"
               }
             }
           }
@@ -161,9 +161,12 @@
   },
   "active": "bb7867307153fe34",
   "lastOpenFiles": [
-    "README.md",
-    "Optimization-Algorithm/最优化方法课程笔记.md",
+    "Stochastic-process/作业/第二章作业.md",
+    "Stochastic-process/第二章作业.md",
     "Stochastic-process/作业/第一章作业.md",
+    "Digital-Logic/数字逻辑基础课程笔记.md",
+    "Optimization-Algorithm/最优化方法课程笔记.md",
+    "README.md",
     "Stochastic-process/作业/Pasted image 20240513011111.png",
     "Stochastic-process/作业/Pasted image 20240513011145.png",
     "Stochastic-process/学长留下的作业/第一章作业.md",
@@ -173,7 +176,6 @@
     "Stochastic-process/学长留下的作业",
     "Stochastic-process/随机过程课程笔记.md",
     "Stochastic-process/作业",
-    "Digital-Logic/数字逻辑基础课程笔记.md",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511215516.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511173627.png",
     "Digital-Logic/数字逻辑基础课程笔记.assets/Pasted image 20240511155047.png",
