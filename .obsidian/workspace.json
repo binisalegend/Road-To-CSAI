@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning-AndrewNg/课程笔记/机器学习笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3d6139ee1db46d6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Machine-Learning/机器学习课程笔记.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -85,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning/机器学习课程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Machine-Learning/机器学习课程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Machine-Learning/机器学习课程笔记.md"
               }
             }
           }
@@ -159,10 +173,12 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cbfc57ec47d50f9",
+  "active": "3d6139ee1db46d6b",
   "lastOpenFiles": [
-    "方案设计.md",
+    "Machine-Learning-AndrewNg/课程笔记/机器学习笔记.md",
+    "Machine-Learning/机器学习课程笔记.md",
     "README.md",
+    "方案设计.md",
     "wallpaper/11.jpg",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "wallpaper/10.jpg",
@@ -192,7 +208,6 @@
     "Database/数据库原理学习.md",
     "Matrix-Analysis/矩阵分析课程笔记.md",
     "Matrix-Analysis.zip",
-    "Machine-Learning/机器学习课程笔记.md",
     "Machine-Learning",
     "Machine-Learning/课程笔记/神经网络总结.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
