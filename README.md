@@ -32,7 +32,7 @@
 |     |              [最优化方法](https://github.com/binisalegend/Road-To-CSAI/tree/master/Optimization-Algorithm)               |   个人笔记+大作业代码报告   |      **遗传算法**章节(暂无完善计划)       |                                           |
 |     |                  [矩阵分析](https://github.com/binisalegend/Road-To-CSAI/tree/master/Matrix-Analysis)                   |       个人笔记       |              完结               |                                           |
 |     |                 [随机过程](https://github.com/binisalegend/Road-To-CSAI/tree/master/Stochastic-process)                 |       个人笔记       |            第二章作业完成            |                                           |
-|     |              [人工智能](https://github.com/binisalegend/Road-To-CSAI/tree/master/Artificial-Intelligence)               |       个人笔记       |             刚刚起步              |                                           |
+|     |              [人工智能](https://github.com/binisalegend/Road-To-CSAI/tree/master/Artificial-Intelligence)               |       个人笔记       |        **机器学习的必要性**部分         |                                           |
 |     |                  [机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning)                  |       个人笔记       |             刚刚起步              |                                           |
 | 课外  |            [Missing-Semester](https://github.com/binisalegend/Road-To-CSAI/tree/master/Missing-Semester)            |   课程进阶教材+个人笔记    |       **Git**章节(暂无完善计划)       |                                           |
 |     |                       [CS61A](https://github.com/binisalegend/Road-To-CSAI/tree/master/CS61A)                       |  课程lab&hw+个人笔记   | **Tree Processing**章节(暂无完善计划) |                                           |
@@ -43,4 +43,4 @@
 |     |               [强化学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/ReinforcementLearning)                |       个人笔记       |          目前只有机器狗学习示例          |                                           |
 |     |            [吴恩达机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning-AndrewNg)            |       个人笔记       |          完结(除强化学习章节)          |                                           |
 
-最优化打比赛没时间记`/(ㄒoㄒ)/~~` 正在恶补
+最近正在完成[人工智能](https://github.com/binisalegend/Road-To-CSAI/tree/master/Artificial-Intelligence)和[机器学习](https://github.com/binisalegend/Road-To-CSAI/tree/master/Machine-Learning)部分
