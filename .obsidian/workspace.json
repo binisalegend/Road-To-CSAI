@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ecd042fcb9b02ef1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Classification-Algorithm/分类算法学习.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +81,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Artificial-Intelligence/人工智能课程笔记.md"
               }
             }
           }
@@ -161,15 +174,15 @@
   },
   "active": "1b9c7a9e8f0fbffa",
   "lastOpenFiles": [
+    "Classification-Algorithm/分类算法学习.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
+    "README.md",
     "Stochastic-process/作业/郭忠滨.md",
     "Stochastic-process/作业/第三章作业 - 副本.md",
-    "README.md",
     "Artificial-Intelligence/Pasted image 20240602012513.png",
     "Stochastic-process/作业/第三章作业.md",
     "Stochastic-process/作业/第三章作业(未转换).md",
     "Stochastic-process/作业/第三章作业(已转换).md",
-    "Classification-Algorithm/分类算法学习.md",
     "Artificial-Intelligence/监督学习作业.md",
     "Optimization-Algorithm/最优化方法课程笔记.md",
     "Optimization-Algorithm/最优化方法课程笔记.assets/Pasted image 20240304215247.png",
