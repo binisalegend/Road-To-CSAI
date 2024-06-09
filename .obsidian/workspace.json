@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md"
+                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md"
               }
             }
           }
@@ -162,8 +162,9 @@
   },
   "active": "1b9c7a9e8f0fbffa",
   "lastOpenFiles": [
-    "README.md",
+    "Stochastic-process/随机过程课程笔记.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
+    "README.md",
     "Artificial-Intelligence/Pasted image 20240603235745.png",
     "Artificial-Intelligence/Pasted image 20240603235733.png",
     "Artificial-Intelligence/Pasted image 20240603234543.png",
@@ -204,7 +205,6 @@
     "Stochastic-process/学长留下的作业/第四章作业.md",
     "Stochastic-process/学长留下的作业/第三章作业.md",
     "Stochastic-process/学长留下的作业/第二章作业.md",
-    "Stochastic-process/随机过程课程笔记.md",
     "Database/未命名.md",
     "Discrete-Mathematics/离散数学.md"
   ]
