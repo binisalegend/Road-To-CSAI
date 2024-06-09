@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
+                "file": "Stochastic-process/随机过程课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
-    "collapsed": true
+    "width": 287.5
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
+                "file": "Stochastic-process/随机过程课程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
+                "file": "Stochastic-process/随机过程课程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Probability-theory-and-mathematical-statistics/概率论和数理统计.md"
+                "file": "Stochastic-process/随机过程课程笔记.md"
               }
             }
           }
@@ -162,6 +161,7 @@
   },
   "active": "1b9c7a9e8f0fbffa",
   "lastOpenFiles": [
+    "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
     "Stochastic-process/随机过程课程笔记.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
     "README.md",
