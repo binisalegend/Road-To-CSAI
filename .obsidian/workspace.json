@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/数据库原理学习.md",
+                "file": "Artificial-Intelligence/人工智能课程笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/数据库原理学习.md"
+                "file": "Artificial-Intelligence/人工智能课程笔记.md"
               }
             }
           }
@@ -159,8 +160,10 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9c7a9e8f0fbffa",
+  "active": "5cbfc57ec47d50f9",
   "lastOpenFiles": [
+    "Artificial-Intelligence/Pasted image 20240611102443.png",
+    "Database/数据库原理学习.md",
     "Stochastic-process/随机过程课程笔记.md",
     "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
@@ -204,8 +207,6 @@
     "Stochastic-process/学长留下的作业/第一章作业.md",
     "Stochastic-process/学长留下的作业/第四章作业.md",
     "Stochastic-process/学长留下的作业/第三章作业.md",
-    "Stochastic-process/学长留下的作业/第二章作业.md",
-    "Database/未命名.md",
-    "Discrete-Mathematics/离散数学.md"
+    "Stochastic-process/学长留下的作业/第二章作业.md"
   ]
 }
