@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b9c7a9e8f0fbffa",
+            "id": "0017ed113cedbaf4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "LiblibAI/RPG：Recaption，Plan and Generate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c4293c95a8de116",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LiblibAI/BoT：Buffer of Thoughts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5,
+    "width": 305.5,
     "collapsed": true
   },
   "right": {
@@ -86,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "LiblibAI/BoT：Buffer of Thoughts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md",
+                "file": "LiblibAI/BoT：Buffer of Thoughts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Artificial-Intelligence/人工智能课程笔记.md"
+                "file": "LiblibAI/BoT：Buffer of Thoughts.md"
               }
             }
           }
@@ -160,32 +173,36 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5cbfc57ec47d50f9",
+  "active": "3c4293c95a8de116",
   "lastOpenFiles": [
+    "LiblibAI/RPG：Recaption，Plan and Generate.md",
+    "LiblibAI/BoT：Buffer of Thoughts.md",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180242.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180155.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612175926.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180242.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180155.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612175926.png",
+    "LiblibAI/RPG：Recaption，Plan and Generate.assets",
+    "Artificial-Intelligence/人工智能课程笔记.md",
+    "LiblibAI",
     "Artificial-Intelligence/Pasted image 20240611102443.png",
     "Database/数据库原理学习.md",
     "Stochastic-process/随机过程课程笔记.md",
     "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
-    "Artificial-Intelligence/人工智能课程笔记.md",
     "README.md",
     "Artificial-Intelligence/Pasted image 20240603235745.png",
     "Artificial-Intelligence/Pasted image 20240603235733.png",
     "Artificial-Intelligence/Pasted image 20240603234543.png",
-    "Artificial-Intelligence/Pasted image 20240603234440.png",
-    "Artificial-Intelligence/Pasted image 20240603232733.png",
-    "Artificial-Intelligence/Pasted image 20240603231440.png",
-    "Artificial-Intelligence/Pasted image 20240603201853.png",
     "Classification-Algorithm/分类算法学习.md",
     "Stochastic-process/作业/郭忠滨.md",
     "Stochastic-process/作业/第三章作业 - 副本.md",
-    "Artificial-Intelligence/Pasted image 20240602012513.png",
     "Stochastic-process/作业/第三章作业.md",
     "Stochastic-process/作业/第三章作业(未转换).md",
     "Stochastic-process/作业/第三章作业(已转换).md",
     "Artificial-Intelligence/监督学习作业.md",
     "Optimization-Algorithm/最优化方法课程笔记.md",
-    "Optimization-Algorithm/最优化方法课程笔记.assets/Pasted image 20240304215247.png",
-    "Optimization-Algorithm/最优化方法课程笔记.assets/Pasted image 20240304211916.png",
     "Optimization-Algorithm/最优化方法课程笔记.assets",
     "Optimization-Algorithm/新建文件夹",
     "Optimization-Algorithm/大作业/code/__pycache__/utils.cpython-311.pyc",
@@ -193,9 +210,6 @@
     "Optimization-Algorithm/大作业/code/__pycache__/PSO.cpython-311.pyc",
     "Optimization-Algorithm/大作业/code/__pycache__/plot.cpython-311.pyc",
     "Optimization-Algorithm/大作业/code/__pycache__/Dataloader.cpython-311.pyc",
-    "Optimization-Algorithm/大作业/code/utils.py",
-    "Optimization-Algorithm/大作业/code/__pycache__",
-    "Optimization-Algorithm/大作业/code/test.txt",
     "Artificial-Intelligence/认知科学导论第五章作业.md",
     "Machine-Learning/机器学习课程笔记.md",
     "Machine-Learning-AndrewNg/课程笔记/机器学习笔记.md",
@@ -206,7 +220,6 @@
     "Digital-Logic/数字逻辑基础课程笔记.md",
     "Stochastic-process/学长留下的作业/第一章作业.md",
     "Stochastic-process/学长留下的作业/第四章作业.md",
-    "Stochastic-process/学长留下的作业/第三章作业.md",
-    "Stochastic-process/学长留下的作业/第二章作业.md"
+    "Stochastic-process/学长留下的作业/第三章作业.md"
   ]
 }
