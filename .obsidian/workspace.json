@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "b6a696f1bd692d40",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -159,8 +172,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "1b9c7a9e8f0fbffa",
+  "active": "b6a696f1bd692d40",
   "lastOpenFiles": [
+    "Stochastic-process/作业/第三章作业.md",
     "Machine-Learning-AndrewNg/课程笔记/机器学习笔记.md",
     "README.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
@@ -189,7 +203,6 @@
     "Classification-Algorithm/分类算法学习.md",
     "Stochastic-process/作业/郭忠滨.md",
     "Stochastic-process/作业/第三章作业 - 副本.md",
-    "Stochastic-process/作业/第三章作业.md",
     "Stochastic-process/作业/第三章作业(未转换).md",
     "Stochastic-process/作业/第三章作业(已转换).md",
     "Artificial-Intelligence/监督学习作业.md",
