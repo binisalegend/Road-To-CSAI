@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Algorithmic-Game-Theory/算法博弈论project.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 287.5
+    "width": 287.5,
+    "collapsed": true
   },
   "right": {
     "id": "128b4a09f9987302",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Algorithmic-Game-Theory/算法博弈论project.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Algorithmic-Game-Theory/算法博弈论project.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Algorithmic-Game-Theory/算法博弈论project.md"
               }
             }
           }
@@ -174,9 +175,11 @@
   },
   "active": "b6a696f1bd692d40",
   "lastOpenFiles": [
+    "README.md",
+    "Algorithmic-Game-Theory/算法博弈论project.md",
+    "Algorithmic-Game-Theory",
     "Stochastic-process/作业/第三章作业.md",
     "Machine-Learning-AndrewNg/课程笔记/机器学习笔记.md",
-    "README.md",
     "Artificial-Intelligence/人工智能课程笔记.md",
     "Artificial-Intelligence/Pasted image 20240623145953.png",
     "Artificial-Intelligence/Pasted image 20240623105610.png",
@@ -213,7 +216,6 @@
     "Optimization-Algorithm/大作业/code/__pycache__/SA.cpython-311.pyc",
     "Optimization-Algorithm/大作业/code/__pycache__/PSO.cpython-311.pyc",
     "Optimization-Algorithm/大作业/code/__pycache__/plot.cpython-311.pyc",
-    "Optimization-Algorithm/大作业/code/__pycache__/Dataloader.cpython-311.pyc",
     "Artificial-Intelligence/认知科学导论第五章作业.md",
     "Machine-Learning/机器学习课程笔记.md",
     "方案设计.md",
