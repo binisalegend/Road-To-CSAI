@@ -1,5 +1,5 @@
 
-> Rongze Tang
+> Rongze Tang, Zhongbin Guo
 > Beijing Institute of Technology
 
 
@@ -10,9 +10,12 @@ In mathematical economics, the **Arrow–Debreu model**[^1] is a theoretical�
 # 2 Introduction
 
 A French economists, Leon Walras, in 1874  formulated one model for an unresolved issue, every person in an entire population has an initial endowment of divisible goods. Furthermore, every person in the population has a utility function for consuming goods. Every person sells the initial endowment and then buys an optimal bundle of goods with the entire revenue i.e., the market clears. Walras wondered whether a price can be assigned to every good so that this is possible. Such a price vector, if exist, is called general market equilibrium. An answer was given by two Nobel Laureates Kenneth Arrow and Gerard Debreu in 1954 . They showed that when the utility functions are concave then under some mild conditions a general market equilibrium always exist. Their proof is non-constructive and does not suggest any polynomial time algorithm to find a general market equilibrium.
-在过去的很多年里，一些学者对Walras的模型进行了研究，他们提出了一些建设性方案，利用Lemke 法、牛顿法、初等二元法、凸编程和其他各种数值优化技术开发了许多启发式算法。同时，有的学者也提出了一些在复杂约束下的多项式时间算法。突破性的，Kamal Jain and others propose a mathematical program for the Walras model for the case of linear utilities,they show that the program is valid for non-linear utilities too. What's more, the program is simple and does not have complicated constraints like “optimality of the bundles purchased” and “money spent equals to money earned”. Instead these constraints follow from the feasibility of the program.At the same time, they show that all the general market equilibria are feasible points of this convex program and viceversa, hence, a general market equilibria can be obtained using ellipsoid method and simultaneous diophantine approximation.这引出了两条定理，我们将在xxxx中详细说明。
-在第三节中，我们首先将给出上文所提到模型的具体定义，
-*TODO*
+
+Over the past many years, Walras' model has been studied by a number of scholars who have proposed some constructive solutions and developed many heuristic algorithms using Lemke's method, Newton's method, primal-dual method, convex programming and various other numerical optimization techniques. Also, some scholars have proposed some polynomial time algorithms under complex constraints. Breakthrough, Kamal Jain and others propose a mathematical program for the Walras model for the case of linear utilities,they show that the program is valid for non-linear utilities too. What's more, the program is simple and does not have complicated constraints like “optimality of the bundles purchased” and “money spent equals to money earned”. Instead these constraints follow from the feasibility of the program.At the same time, they show that all the general market equilibria are feasible points of this convex program and viceversa, hence, a general market equilibria can be obtained using ellipsoid method and simultaneous diophantine approximation. 
+
+The paper solves the open problem posed by Papadimitriou et al. by introducing a polynomial time algorithm to compute the Arrow-Debreu market equilibrium under a linear utility function. The algorithm, based on elliptic algorithms and simultaneous drop-fan graph approximation, provides an efficient convex programming on which the log-convexity of the market equilibrium price and the convexity of the allocation are proved. The paper also generalizes important theorems in the fields of geometric algorithms and combinatorial optimization, and presents an algorithm capable of handling non-well-described polyhedra. 
+
+In Section 3, we will first give specific definitions of the models mentioned above. 
 
 # 3 Description of the model
 
@@ -124,6 +127,7 @@ If the graph is strongly connected then it satisfies the assumption and we finis
 
 Next, Kamal Jain and others explore the case when the utility functions are **non-linear but concave**. We assume that the utility functions are differentiable Let $u_i(x_i)$ be the utility function of $i$,where $x_i$ is her consumption vector.We assume that $u_i$ is concave, i.e.,
 $$\frac{u_i(x_i)+u_i(y_i)}2\leq u_i(\frac{x_i+y_i}2),$$
+
 for every consumption vectors $x_i$ and $y_i.$ Let $u_{ij}(x_i)$ be the partial derivative of $u_i$ at point $x_i$ with respect to the consumption of $j^\mathrm{th}$ good (consumption of $j^\mathrm{th}$ good by $i^\mathrm{th}$ person is denoted by $x_ij.).$ Now replace the $u_ij$ in the non-convex program 1 by $u_{ij}(x_i)$ (where $x_i=$ $(x_{i1},x_{i2},\cdots,x_{in}).$ For brevity, $u_ij(x_i)$ is written as $u_ij$, . Now we claim that the non-convex program l is valid for the nonlinear utility's case too.The proof given is as follow:
 
 **Theorem 10** The feasible region of non-convex program 1has all and only general market equilibria even if utilities are general differentiable concave functions.
@@ -148,11 +152,47 @@ Assuming that $x_{ij}$ is an equilibrium allocation, it follows immediately from
 
 Assuming that the allocation $x$ is not an equilibrium, and letting $x^*$ be an equilibrium allocation, Eisenberg-Gale's objective function has a higher value at $x^*$ than at $x$. Consider a straight line segment from $x$ to $x^*$, where the value of the Eisenberg-Gale objective function is strictly higher at any point on the line than at 0, and hence the derivative at 0 is positive. Writing this as a bipartite graph with weights and proving it by construction yields that there exists a bipartite graph with at least one positive weight placement, which implies that the aspects can be adjusted to achieve equilibrium.
 
-In summary, the theorem is proved。
-
 # 8.Generalized convex feasibility testing algorithm via ellipsoid and simultaneous diophantine approximation
 
-在这部分，Kamal Jain and others推广了Grotschel、Lovasz和Schrijver的《几何算法与组合优化》[^5]中的定理6.4.1。原定理解决了通过强分离Oracle检测良好描述的多面体的非空问题，表明其可在Oracle-多项式时间内解决。然而，这一假设对某些凸规划（如Eisenberg-Gale的凸规划）不适用。
+In this section, Kamal Jain and others generalize Theorem 6.4.1 of Geometric Algorithms and Combinatorial Optimization [^5] by Grotschel, Lovasz, and Schrijver. The original theorem solves the problem of nonemptiness of polyhedra well-described by strongly separating Oracle detections by showing that it can be Oracle-polynomial time solution. However, this assumption does not hold for certain convex programs (e.g., Eisenberg-Gale's convex program). 
+
+## Keypoints
+- The theorem assumes well-described polyhedra, meaning any facet can be encoded with binary length $\phi$.
+- The authors generalize this theorem to convex sets described by a strong separation oracle, ensuring the set contains a point with binary encoding length at most $\phi$.
+
+## Theorems
+The section also gives two theorems, which can be summarize as follow
+**Theorem 12:**
+- Given a convex set via a strong separation oracle, if the set contains a point with binary encoding length \(\phi\), then a point in the set can be found in polynomial time.
+- The proof uses the concept of a well-described polyhedra and a strong separation oracle. If the input is incorrect, the algorithm will eventually find a point in the set.
+
+**Theorem 13:**
+- Provides an algorithm for finding a point in a convex set with a prescribed precision \(\phi\). The algorithm is polynomial in both oracle time and \(\phi\).
+
+These theorems indicate that even when the convex set isn't well-described (in terms of rational facets), a polynomial time algorithm can still find a point in the set. The approach involves using ellipsoid methods and simultaneous diophantine approximation, extending the practical applicability of convex programming in computational problems.
+
+# 9: Summary of the Paper
+
+The paper presents a polynomial time algorithm for computing the Arrow-Debreu market equilibrium in the case of linear utilities. The approach leverages convex programming, the ellipsoid algorithm, and simultaneous diophantine approximation to find the equilibrium efficiently.
+
+## **Key Contributions**
+1. **Polynomial Time Algorithm:**
+   - The first polynomial time exact algorithm for the Arrow-Debreu market equilibrium with linear utilities.
+   - It uses a convex program that is explicit and intuitive, leading to efficient computational methods.
+
+2. **Convexity of Equilibria:**
+   - Proves that the set of equilibrium assignments is convex and the equilibrium prices are log-convex.
+
+3. **Generalization of Theorems:**
+   - Generalizes a powerful theorem in geometric algorithms to allow ellipsoids that do not contain the entire convex region.
+   - Extends the theorem to convex sets described by a strong separation oracle, ensuring polynomial time solvability.
+
+4. **Practical Implications:**
+   - The developed convex program aids in practical algorithms, such as the interior point method.
+   - Provides insight into the structure of equilibria, showing the dual interpretation of prices and the uniqueness of equilibrium utilities.
+
+5. **Combinatorial Characterizations:**
+   - Offers separate combinatorial characterizations for the Arrow-Debreu and Fisher market models.
 
 
 [^1]:Arrow, K.J., & Debreu, G. (1954). EXISTENCE OF AN EQUILIBRIUM FOR A COMPETITIVE ECONOMY. _Econometrica, 22_, 265.
