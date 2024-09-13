@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLI Settings/Iterm2 Settings.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CLI Settings/Iterm2 Settings.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLI Settings/Iterm2 Settings.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "CLI Settings/Iterm2 Settings.md"
+                "file": "README.md"
               }
             }
           }
@@ -162,8 +162,16 @@
   },
   "active": "1b9c7a9e8f0fbffa",
   "lastOpenFiles": [
-    "README.md",
+    "JD-MLLM/MLLM Research.md",
+    "JD-MLLM/QQ_1726197346047.png",
+    "JD-MLLM/Pasted image 20240913111456.png",
+    "JD-MLLM/Pasted image 20240910103410.png",
+    "Paper-Summarization/限制条件.md",
+    "JD-MLLM",
+    "Paper-Summarization/Llama3.1 Model Structure.md",
     "CLI Settings/Iterm2 Settings.md",
+    "Paper-Summarization",
+    "README.md",
     "CLI Settings",
     "Algorithmic-Game-Theory/算法博弈论homework.md",
     "Algorithmic-Game-Theory/算法博弈论project.md",
@@ -178,7 +186,6 @@
     "Artificial-Intelligence/Pasted image 20240623103749.png",
     "Artificial-Intelligence/Pasted image 20240623100703.png",
     "Artificial-Intelligence/Pasted image 20240623093106.png",
-    "Artificial-Intelligence/Pasted image 20240623092102.png",
     "Stochastic-process/作业/第四章作业.md",
     "Stochastic-process/作业/第四章作业(未转换).md",
     "Stochastic-process/作业/第一章作业.md",
@@ -188,8 +195,6 @@
     "LiblibAI/BoT：Buffer of Thoughts.md",
     "LiblibAI/RPG：Recaption，Plan and Generate.md",
     "Database/数据库原理学习.md",
-    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180242.png",
-    "LiblibAI/RPG：Recaption，Plan and Generate.assets/Pasted image 20240612180155.png",
     "LiblibAI/RPG：Recaption，Plan and Generate.assets",
     "LiblibAI",
     "Probability-theory-and-mathematical-statistics/概率论和数理统计.md",
@@ -199,14 +204,8 @@
     "Stochastic-process/作业/第三章作业(未转换).md",
     "Stochastic-process/作业/第三章作业(已转换).md",
     "Artificial-Intelligence/监督学习作业.md",
-    "Optimization-Algorithm/最优化方法课程笔记.md",
     "Optimization-Algorithm/最优化方法课程笔记.assets",
     "Optimization-Algorithm/新建文件夹",
-    "Optimization-Algorithm/大作业/code/__pycache__/utils.cpython-311.pyc",
-    "Optimization-Algorithm/大作业/code/__pycache__/SA.cpython-311.pyc",
-    "Optimization-Algorithm/大作业/code/__pycache__/PSO.cpython-311.pyc",
-    "Artificial-Intelligence/认知科学导论第五章作业.md",
-    "Machine-Learning/机器学习课程笔记.md",
-    "方案设计.md"
+    "Optimization-Algorithm/大作业/code/__pycache__/utils.cpython-311.pyc"
   ]
 }
