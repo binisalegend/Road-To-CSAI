@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "MLLM-Research/MLLM Research.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "MLLM-Research/MLLM Research.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "MLLM-Research/MLLM Research.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "MLLM-Research/MLLM Research.md"
               }
             }
           }
@@ -160,18 +160,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b9c7a9e8f0fbffa",
+  "active": "5cbfc57ec47d50f9",
   "lastOpenFiles": [
-    "JD-MLLM/MLLM Research.md",
-    "JD-MLLM/QQ_1726197346047.png",
-    "JD-MLLM/Pasted image 20240913111456.png",
-    "JD-MLLM/Pasted image 20240910103410.png",
+    "README.md",
+    "MLLM-Research/MLLM Research.md",
+    "MLLM-Research/QQ_1726197346047.png",
+    "MLLM-Research/Pasted image 20240913111456.png",
+    "MLLM-Research/Pasted image 20240910103410.png",
     "Paper-Summarization/限制条件.md",
-    "JD-MLLM",
+    "MLLM-Research",
     "Paper-Summarization/Llama3.1 Model Structure.md",
     "CLI Settings/Iterm2 Settings.md",
     "Paper-Summarization",
-    "README.md",
     "CLI Settings",
     "Algorithmic-Game-Theory/算法博弈论homework.md",
     "Algorithmic-Game-Theory/算法博弈论project.md",
