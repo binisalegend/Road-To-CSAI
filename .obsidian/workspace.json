@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "758eb394465240ac",
+        "id": "aac8e99f5c7a5a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "1b9c7a9e8f0fbffa",
+            "id": "1f045fbadf132fe2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -160,10 +160,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5cbfc57ec47d50f9",
+  "active": "1f045fbadf132fe2",
   "lastOpenFiles": [
-    "README.md",
+    "MLLM-Research/().md",
     "MLLM-Research/MLLM Research.md",
+    "MLLM-Research/QQ_1726299608079.png",
+    "MLLM-Research/QQ_1726298244737.png",
+    "README.md",
     "MLLM-Research/QQ_1726197346047.png",
     "MLLM-Research/Pasted image 20240913111456.png",
     "MLLM-Research/Pasted image 20240910103410.png",
@@ -184,8 +187,6 @@
     "Artificial-Intelligence/Pasted image 20240623103833.png",
     "Artificial-Intelligence/Pasted image 20240623103805.png",
     "Artificial-Intelligence/Pasted image 20240623103749.png",
-    "Artificial-Intelligence/Pasted image 20240623100703.png",
-    "Artificial-Intelligence/Pasted image 20240623093106.png",
     "Stochastic-process/作业/第四章作业.md",
     "Stochastic-process/作业/第四章作业(未转换).md",
     "Stochastic-process/作业/第一章作业.md",

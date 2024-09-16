@@ -32,4 +32,28 @@
 1. [**Anyword-3M**](https://modelscope.cn/datasets/iic/AnyWord-3M)：包括一些来自[laion-400m](https://laion.ai/blog/laion-400-open-dataset/)、Wukong等数据集的OCR训练集
 2. [**ICDAR2019-LSVT**](https://rrc.cvc.uab.es/?ch=16&com=downloads)：街景文本阅读任务，包含约450000张带有文字标注的图像，其中30000张图像进行了完整标注，400000张图像进行弱标注
 3. [**ICDAR2017-RCTW**](https://rctw.vlrlab.net/dataset)：通过手机收集的约12K中文室外识别任务数据集
-4. [Open Chart]()：包含如下几个数据集的集合（ChartQA, DVQA, InfoVQA, Pew, and OpenCQA）
+4. [**Open Chart**]()：包含如下几个数据集的集合（ChartQA, DVQA, InfoVQA, Pew, and OpenCQA）
+
+# MLLM训练流程
+## 整体架构
+整体来说主要由一个预训练的模态编码器（pre-trained modality encoder）、一个预训练的LLM和一个用于连接他们的模态接口（modality inference）组成，一些特殊的MLLM可能还包括一个生成器（generator）用来生成文本以外的其他模态输出![](MLLM-Research/QQ_1726298244737.png)
+
+### 模态编码器（Modality Encoder）
+- 用于将原始信息（如图像和音频）压缩为更紧凑的表示形式
+
+常见的形式是使用已经与其他模态对齐的预训练编码器，如[CLIP](https://arxiv.org/abs/2103.00020)等。一些常用的图像编码器如下：![](MLLM-Research/QQ_1726299608079.png)
+
+在选择编码器时，通常要考虑到分辨率、参数大小以及预训练语料库等因素；相较而言，输入分辨率对编码器质量的影响较大。
+
+许多相关工作都已证实使用更高分辨率图像训练出的编码器可以实现更高的性能增益，而提高输入分辨率主要通过直接缩放（direct scaling）和图像分割（patch division）的方法：
+1. 直接缩放：直接将更高分辨率的图像输入到编码器中，通常需要对预训练编码器作进一步处理或者使用更高分辨率的预训练编码器
+2. 图像分割：通过将高分辨率图像分割为小的图像块，重复使用低分辨率编码器，并将子图像与下采样的高分辨率图像一同发送到图像编码器，分别捕获图像的局部和全局特征
+
+类似的编码器也可以用于其他模态，例如[ImageBind-LLM](https://arxiv.org/abs/2309.03905)配备的编码器支持对图像、文本、音频、深度、热和惯性测量单元 （IMU） 数据进行编码，可以相应各种模态的输入
+
+### 预训练LLM
+现有阶段主要应用Causal-Encoder架构的LLM，通过扩大参数等方式提升性能表现。应用如混合专家模型（MoE），在不增加计算成本的基础上通过选择性激活参数来扩展总参数大小
+
+### 多模态接口（Modality Inference）
+因为LLM只能感知文本，因此有必要弥补自然语言与其他模态之间的差距。常用的方法是在预先训练的视觉编码器和LLM之间引入一个可学习的连接器，另一种方式则通过专家模型将图像信息进行描述，再将描述后语言传给LLM
+
